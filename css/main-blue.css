@@ -223,8 +223,9 @@ body {
   color: #b3b3b3;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: Montserrat;
-  font-size: 9px;
+  font-family: Open Sans;
+  font-weight: bolder;
+  font-size: 14px;
   letter-spacing: .2em;
   padding: 0 0 0 .2em;
   margin: 0 10px;
