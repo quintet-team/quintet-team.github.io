@@ -148,7 +148,7 @@ body {
 }
 
 .heading {
-  margin-top: 80px;
+  margin-top: 50px;
   color: #ffffff;
   font-family: Montserrat;
   font-size: 48px;
@@ -196,13 +196,13 @@ body {
 }
 
 .buttons {
-  margin: 80px 0 0;
+  margin: 20px 0 0;
   text-align: center;
 }
 
 @media (max-width: 1170px) {
   .buttons {
-    margin: 40px 0 0;
+    margin: 20px 0 0;
   }
   .buttons .button {
     margin-top: 10px;
@@ -508,7 +508,7 @@ body {
 
 .more-description {
   margin: 0 auto;
-  margin-top: 40px;
+  margin-top: 30px;
   width: 70%;
   font-family: Open Sans;
   line-height: 2em;
