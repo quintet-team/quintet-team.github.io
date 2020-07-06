@@ -6,7 +6,7 @@ $(function () {
     $('#contact-form').on('submit', function (e) {
 
         if (!e.isDefaultPrevented()) {
-            joinUs();
+            contactUs();
             return false;
         }
     })
