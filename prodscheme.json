@@ -45,16 +45,28 @@
       "ques": "For which Product Category you need a Product Catalogue",
       "ans": [
         {
-          "text": "Industrial Switch",
-          "key": "industrial_switch"
-        },
-        {
           "text": "Load Balancer",
           "key": "load_balancer"
         },
         {
           "text": "Networking Trainer Kit",
           "key": "trainer_kit"
+        },
+        {
+          "text": "Data Card/Dongle",
+          "key": "card_dongle"
+        },
+        {
+          "text": "Power Supplies",
+          "key": "power_supply"
+        },
+        {
+          "text": "PABX System",
+          "key": "pabx_system"
+        },
+        {
+          "text": "Industrial Switch",
+          "key": "industrial_switch"
         },
         {
           "text": "Network Management Software",
